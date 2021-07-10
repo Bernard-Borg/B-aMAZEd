@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment1.params=o\ p\ qList\ lList
+comment1.target=GamePanel(PlayFrame,\ Player,\ java.util.ArrayList,\ java.util.ArrayList)
+comment10.params=e
+comment10.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment11.params=
+comment11.target=Player\ getPlayer()
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=g
+comment3.target=void\ update(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ render()
+comment6.params=
+comment6.target=void\ getCurrentLevel()
+comment7.params=
+comment7.target=void\ updateLevel()
+comment8.params=
+comment8.target=void\ chestLogic()
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=12

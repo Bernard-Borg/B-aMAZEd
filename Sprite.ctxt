@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sprite
+comment1.params=fN\ x\ y
+comment1.target=Sprite(java.lang.String,\ int,\ int)
+comment2.params=px
+comment2.target=void\ moveLeft(int)
+comment3.params=px
+comment3.target=void\ moveRight(int)
+comment4.params=px
+comment4.target=void\ moveUp(int)
+comment5.params=px
+comment5.target=void\ moveDown(int)
+numComments=6

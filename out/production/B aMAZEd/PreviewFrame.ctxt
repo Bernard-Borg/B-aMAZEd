@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PreviewFrame
+comment1.params=n\ r\ g\ b
+comment1.target=PreviewFrame(java.lang.String,\ int,\ int,\ int)
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=3
