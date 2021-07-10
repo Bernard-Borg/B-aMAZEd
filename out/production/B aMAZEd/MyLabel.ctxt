@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=MyLabel
-comment1.params=fN\ x\ y\ w\ h
-comment1.target=MyLabel(java.lang.String,\ int,\ int,\ int,\ int)
-comment2.params=fN
-comment2.target=void\ setImage(java.lang.String)
-comment3.params=g
-comment3.target=void\ paint(java.awt.Graphics)
-numComments=4
