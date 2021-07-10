@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=MyButton
-comment1.params=fN\ x\ y\ w\ h
-comment1.target=MyButton(java.lang.String,\ int,\ int,\ int,\ int)
-comment2.params=g
-comment2.target=void\ paint(java.awt.Graphics)
-numComments=3
